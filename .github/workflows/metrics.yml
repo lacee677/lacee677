@@ -40,3 +40,8 @@ jobs:
           plugin_languages_threshold: 0%
 
           plugin_lines: yes
+
+          plugin_wakatime: yes
+          plugin_wakatime_token: ${{ secrets.WAKA }}
+          plugin_wakatime_sections: languages, languages-graphs, editors, os
+          
