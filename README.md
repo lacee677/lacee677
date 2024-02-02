@@ -1,6 +1,10 @@
 ### Hi there 👋
-
-![Metrics](/github-metrics.svg)
+<p align="center">
+  <img src="/github-metrics.svg" />
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=aws,babel,bash,bootstrap,c,cloudflare,css,docker,electron,express,figma,firebase,github,githubactions,html,js,jenkins,jest,jquery,kubernetes,md,mongodb,mysql,nginx,nodejs,ps,php,postgres,py,rails,raspberrypi,react,redis,regex,ruby,sentry,tailwind,ts,vite,vitest,vscode,vue,webpack,wordpress,xd" />
+    </a>
+</p>
 
 
 <!--
