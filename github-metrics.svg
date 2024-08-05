@@ -1352,27 +1352,27 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">TypeScript</span>
-                                <div class="bar" style="width: 53.936%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <div class="bar" style="width: 53.815999999999995%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 <span class="value">67%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">JavaScript</span>
-                                <div class="bar" style="width: 10.431999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">13%</span>
+                                <div class="bar" style="width: 8.288%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">10%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Vue.js</span>
-                                <div class="bar" style="width: 6.744%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">8%</span>
+                                <div class="bar" style="width: 5.312%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">7%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">Markdown</span>
-                                <div class="bar" style="width: 2.464%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">3%</span>
+                                <span class="name">Other</span>
+                                <div class="bar" style="width: 4.832%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">6%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">JSON</span>
-                                <div class="bar" style="width: 2.208%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 2.016%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">3%</span>
                             </div>
                         </div>
@@ -2021,7 +2021,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 5 Aug 2024, 02:07:00 (timezone Europe/Budapest) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Aug 2024, 14:03:28 (timezone Europe/Budapest) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
